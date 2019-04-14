@@ -77,7 +77,7 @@ namespace Open3DMotion
     const char* numberunitsformat;
     const char* numberformat;
     float fileresolution;
-  } 
+  }
   MDF_CalculatedGroup [NumDataTypes-DataMarker] =
   {
     { "Marker Position",        "mm",    "%.1fmm",          "%.2f", (float)0.10  },
